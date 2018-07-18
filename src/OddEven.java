@@ -40,7 +40,7 @@ public class OddEven {
 				break;
 			}
 
-		} while (cont = true);
+		} while (cont == true);
 		
 		System.out.println("Bye!");
 		scan.close();
